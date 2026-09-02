@@ -14,33 +14,39 @@
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
 
 <style>
-    :root {
-        --primary: #16213e;
-        --primary-dark: #0f172a;
-        --accent: #2563eb;
-        --accent-light: #eff6ff;
-        --success: #16a34a;
-        --danger: #ef4444;
-        --warning: #f59e0b;
+:root {
+--primary: #16213e;
+--primary-dark: #0f172a;
+--accent: #2563eb;
+--accent-light: #eff6ff;
+--success: #16a34a;
+--danger: #ef4444;
+--warning: #f59e0b;
 
-        --background: #f7f8fc;
-        --surface: #ffffff;
-        --surface-soft: #f1f5f9;
+```
+/* Updated grey application background */
+--background: #e5e7eb;
 
-        --text: #1e293b;
-        --muted: #64748b;
-        --border: #e2e8f0;
+--surface: #ffffff;
+--surface-soft: #f1f5f9;
 
-        --radius-sm: 10px;
-        --radius: 16px;
-        --radius-lg: 24px;
+--text: #1e293b;
+--muted: #64748b;
+--border: #d1d5db;
 
-        --shadow-sm: 0 4px 12px rgba(15, 23, 42, 0.06);
-        --shadow: 0 10px 30px rgba(15, 23, 42, 0.10);
-        --shadow-lg: 0 20px 50px rgba(15, 23, 42, 0.15);
+--radius-sm: 10px;
+--radius: 16px;
+--radius-lg: 24px;
 
-        --container: 1200px;
-    }
+--shadow-sm: 0 4px 12px rgba(15, 23, 42, 0.06);
+--shadow: 0 10px 30px rgba(15, 23, 42, 0.10);
+--shadow-lg: 0 20px 50px rgba(15, 23, 42, 0.15);
+
+--container: 1200px;
+```
+
+}
+
 
     * {
         box-sizing: border-box;
